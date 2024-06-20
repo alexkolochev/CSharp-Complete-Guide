@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01", "Example01\Example01.csproj", "{6AF2EBC0-71DA-4410-A038-4461DDAA97BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example02", "Example02\Example02.csproj", "{D1C8B143-4679-4968-B11A-3EC2F3B62F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example03", "Example03\Example03.csproj", "{F369E196-12E6-48EF-9722-3E527A0E265B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF2EBC0-71DA-4410-A038-4461DDAA97BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF2EBC0-71DA-4410-A038-4461DDAA97BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF2EBC0-71DA-4410-A038-4461DDAA97BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF2EBC0-71DA-4410-A038-4461DDAA97BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C8B143-4679-4968-B11A-3EC2F3B62F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C8B143-4679-4968-B11A-3EC2F3B62F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C8B143-4679-4968-B11A-3EC2F3B62F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C8B143-4679-4968-B11A-3EC2F3B62F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F369E196-12E6-48EF-9722-3E527A0E265B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F369E196-12E6-48EF-9722-3E527A0E265B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F369E196-12E6-48EF-9722-3E527A0E265B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F369E196-12E6-48EF-9722-3E527A0E265B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {990A4322-0556-4633-8D22-98D6F7DBDC76}
+	EndGlobalSection
+EndGlobal

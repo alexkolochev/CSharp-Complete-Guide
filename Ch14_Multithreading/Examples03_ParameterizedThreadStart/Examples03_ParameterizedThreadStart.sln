@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01", "Example01\Example01.csproj", "{B0D87C26-2E0B-471D-A4B9-BD82A1F87D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example02", "Example02\Example02.csproj", "{24314832-D494-4F44-8FB6-F39A2383FFA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example03", "Example03\Example03.csproj", "{5FC0733F-1708-4AA0-B6B5-77BC88E51277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D87C26-2E0B-471D-A4B9-BD82A1F87D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D87C26-2E0B-471D-A4B9-BD82A1F87D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D87C26-2E0B-471D-A4B9-BD82A1F87D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D87C26-2E0B-471D-A4B9-BD82A1F87D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24314832-D494-4F44-8FB6-F39A2383FFA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24314832-D494-4F44-8FB6-F39A2383FFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24314832-D494-4F44-8FB6-F39A2383FFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24314832-D494-4F44-8FB6-F39A2383FFA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC0733F-1708-4AA0-B6B5-77BC88E51277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC0733F-1708-4AA0-B6B5-77BC88E51277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC0733F-1708-4AA0-B6B5-77BC88E51277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC0733F-1708-4AA0-B6B5-77BC88E51277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78AB8262-E408-42B5-ACFB-F9200BA85230}
+	EndGlobalSection
+EndGlobal

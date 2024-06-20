@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01", "Example01\Example01.csproj", "{E4987FA0-C151-48A2-B3ED-EF9958489272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example02", "Example02\Example02.csproj", "{EDEC9747-29C8-4051-B83F-CEF4B8B70C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example03", "Example03\Example03.csproj", "{2F7B0C44-33D3-437D-B372-9D410049FBE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4987FA0-C151-48A2-B3ED-EF9958489272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4987FA0-C151-48A2-B3ED-EF9958489272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4987FA0-C151-48A2-B3ED-EF9958489272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4987FA0-C151-48A2-B3ED-EF9958489272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDEC9747-29C8-4051-B83F-CEF4B8B70C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEC9747-29C8-4051-B83F-CEF4B8B70C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEC9747-29C8-4051-B83F-CEF4B8B70C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEC9747-29C8-4051-B83F-CEF4B8B70C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7B0C44-33D3-437D-B372-9D410049FBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7B0C44-33D3-437D-B372-9D410049FBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7B0C44-33D3-437D-B372-9D410049FBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7B0C44-33D3-437D-B372-9D410049FBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D4CBFA-6564-4BB2-B684-569A8E96FB39}
+	EndGlobalSection
+EndGlobal
